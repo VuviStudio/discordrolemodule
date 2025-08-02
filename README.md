@@ -1,8 +1,5 @@
 # DiscordRoleModule for Apoc
 
-[![Roblox](https://img.shields.io/badge/Roblox-Luau-blue.svg)](https://www.roblox.com/)
-[![API](https://img.shields.io/badge/API-Apocrypha-green.svg)](https://modmpointsapoc.vercel.app/)
-
 ## Quick Setup
 
 1. **Enable HTTP requests** in your game:
@@ -10,7 +7,6 @@
    - Enable "Allow HTTP Requests"
 
 2. **Add DiscordRoleModule to ReplicatedStorage:**
-   - In Roblox Studio, go to ReplicatedStorage
    - Create a new ModuleScript
    - Name it "DiscordRoleModule"
    - Copy the module code into it
