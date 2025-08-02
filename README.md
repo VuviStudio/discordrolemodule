@@ -1,6 +1,4 @@
-# DiscordRoleModule for Roblox
-
-A Roblox module for managing Discord roles via the Apocrypha API.
+# DiscordRoleModule for Apoc
 
 [![Roblox](https://img.shields.io/badge/Roblox-Luau-blue.svg)](https://www.roblox.com/)
 [![API](https://img.shields.io/badge/API-Apocrypha-green.svg)](https://modmpointsapoc.vercel.app/)
